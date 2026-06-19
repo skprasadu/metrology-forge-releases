@@ -28,16 +28,12 @@ Use the Releases page:
 
 Each release normally includes:
 
+
 | Asset | Purpose |
-
 | --- | --- |
-
 | `MetrologyForge-windows-x64.msi` | Windows desktop installer |
-
 | `met-cli-windows-x64.zip` | Command-line parser/redaction tool |
-
 | `SHA256SUMS.txt` | Checksums for release files |
-
 | `RELEASE_NOTES.md` | Release-specific notes |
 
 ## CLI example
